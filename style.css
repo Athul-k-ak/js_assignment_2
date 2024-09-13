@@ -1,4 +1,3 @@
-/* General reset for margin and padding */
 * {
     margin: 0;
     padding: 0;
@@ -14,7 +13,7 @@ body {
     background-color: #f4f4f9;
 }
 
-/* Container to hold the card in the center */
+/* Container */
 .container {
     display: flex;
     justify-content: center;
@@ -23,7 +22,7 @@ body {
     height: 100%;
 }
 
-/* Styling the card with shadow and padding */
+/* Styling the card */
 .card {
     background-color: white;
     padding: 30px;
